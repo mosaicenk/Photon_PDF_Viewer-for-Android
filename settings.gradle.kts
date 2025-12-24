@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SPV_Simple_PDF_Viewer"
+rootProject.name = "Photon_PDF_Viewer"
 include(":app")
