@@ -2,6 +2,12 @@
 
 A lightweight and fast PDF viewer application for Android.
 
+## Download
+
+[![Download APK](https://img.shields.io/badge/Download-v1.3-blue?style=for-the-badge&logo=android)](https://github.com/mosaicenk/Photon_PDF_Viewer-for-Android/releases/download/v1.3/app-release.apk)
+
+[All Releases](https://github.com/mosaicenk/Photon_PDF_Viewer-for-Android/releases)
+
 ## Features
 
 - Fast PDF rendering
